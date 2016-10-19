@@ -1,0 +1,18 @@
+{
+  "name": "react-web-app",
+  "version": "1.0.0",
+  "description": "Testing with react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "maskrap"
+  },
+  "author": "Sam Park and Matt Wilkin",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
